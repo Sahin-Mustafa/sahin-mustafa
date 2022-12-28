@@ -1,6 +1,6 @@
 # 👨‍💻 About Me:
 <h1 align="center">Hi 👋, I'm Mustafa Şahin</h1>
-🔭 I’m currently working on asp.net core MC<br>🌱 I’m currently learning React.js and node.js<br>⚡ Fun fact
+🔭 I’m currently working on asp.net core MVC<br>🌱 I’m currently learning React.js and node.js<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
