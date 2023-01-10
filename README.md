@@ -19,10 +19,10 @@
   /></a>
 </p>
 <h2>📊 GitHub Stats:</h2>
-<div class="div" style="display: flex">
+<div>
   <p>
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Sahin-Mustafa&theme=radical&show_icons=true"
+      src="https://github-readme-stats.vercel.app/api?username=sahin-mustafa&theme=dracula&show_icons=true&hide_border=false&count_private=true"
       alt="sahin-mustafa"
     />
   </p>
@@ -32,11 +32,5 @@
       alt="sahin-mustafa"
     />
   </p>
-  <p>
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=sahin-mustafa&show_icons=true&locale=en&layout=compact"
-      alt="sahin-mustafa"
-    />
-  </p>
+  
 </div>
-
