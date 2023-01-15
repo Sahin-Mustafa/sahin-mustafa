@@ -20,12 +20,7 @@
 </p>
 <h2>📊 GitHub Stats:</h2>
 <div>
-  <p>
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=sahin-mustafa&theme=dracula&show_icons=true&hide_border=false&count_private=true"
-      alt="sahin-mustafa"
-    />
-  </p>
+  
   <p>
     <img
       src="http://github-readme-streak-stats.herokuapp.com?user=Sahin-Mustafa&theme=dark&background=000000"
